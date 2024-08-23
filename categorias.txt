@@ -1,0 +1,17 @@
+1- Mercados do Brasil: Ibovespa - Câmbio - Juros
+
+2- Mercados internacionais: Ásia - Europa - NY (bolsas, Treasuries e câmbio) - Petróleo - Ouro
+
+3- Empresas de capital aberto: Noticiário - Balanços - Fatos Relevantes - Recomendações de Ações
+
+4- Noticiário internacional: Geral (com influência nos mercados) - Dirigenntes do Fed, BCE, Boe, BoJ
+
+5- Economia do Brasil: Banco Central - Fazenda - Planejamento - Tesouro - Receita
+
+6- Política do Brasil: Planalto - Congresso - STF
+
+7- Indicadores econômicos: do Brasil e internacionais
+
+8- AOVIVO: cobertura online de entrevistas, palestras e outros eventos (de interesse dos mercados)
+
+9- Serviços: Saber+ (site do Bom Dia Mercado), Morning Call, Diário Econômico
