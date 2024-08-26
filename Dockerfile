@@ -7,4 +7,4 @@ COPY . .
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
 
-CMD ["pyhton", "ler_categorizar_enviar.py"]
+CMD ["python", "ler_categorizar_enviar.py"]
