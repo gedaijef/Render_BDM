@@ -1,5 +1,5 @@
-langchain_openai=0.0.8
-langchain.prompts=0.2.14
-requests=2.32.3
-psycopg2=2.9.9
+langchain_openai==0.0.8
+langchain.prompts==0.2.14
+requests==2.32.3
+psycopg2==2.9.9
 
