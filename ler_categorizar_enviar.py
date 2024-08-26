@@ -3,7 +3,6 @@
 # Importações
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
-from dotenv import load_dotenv
 import os
 import requests
 import datetime
@@ -11,8 +10,6 @@ from time import sleep
 import time
 import json
 import psycopg2
-
-load_dotenv()
 
 # Conexão da GREEN API
 url = os.getenv('URL_LER')
